@@ -7,8 +7,5 @@ function sum(fromN, toN) {
 };
 
 
-console.log(sum(4, 8))
-
-
 //
 module.exports = sum;
